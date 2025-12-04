@@ -1,0 +1,28 @@
+# Virtual environment
+.venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# PyCharm project files
+.idea/
+
+# VSCode project files (optional)
+.vscode/
+
+# Logs
+*.log
+
+# macOS system files
+.DS_Store
+
+.env
+*.env
